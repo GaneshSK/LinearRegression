@@ -35,4 +35,4 @@ Numpy, pandas, sklearn, statsmodels, seaborn, matplotlib, VIF
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [GaneshSK] - feel free to contact me!
