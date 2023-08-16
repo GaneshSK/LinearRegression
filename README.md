@@ -25,14 +25,12 @@ They have contracted a consulting company to understand the factors on which the
 5. High demand in 2019 than 2018
 
 ## Technologies Used
-Numpy, pandas, sklearn, statsmodels, seaborn, matplotlib, VIF
+Numpy, pandas, sklearn, statsmodels, seaborn, matplotlib, VIF, RFE
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 [1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
-
-
 
 ## Contact
 Created by [GaneshSK] - feel free to contact me!
